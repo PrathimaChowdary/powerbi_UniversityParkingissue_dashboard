@@ -49,7 +49,11 @@ Contains all transactions from Jan 1, 2021 – Apr 30, 2025:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot]
+![Dashboard Screenshots] <img width="956" alt="image" src="https://github.com/user-attachments/assets/a0e1ef8d-9d44-427d-8253-5d35db574f4d" />   <img width="959" alt="image" src="https://github.com/user-attachments/assets/77529ed9-3c86-45b9-9240-248d456e131c" />  <img width="957" alt="image" src="https://github.com/user-attachments/assets/03d86b1a-08af-4fc6-b4e2-c5c72148ec4e" />  <img width="959" alt="image" src="https://github.com/user-attachments/assets/8fc27050-99ee-44b5-bdde-a8570578f6c5" /> 
+
+
+
+
 
 
 ## ⚙️ Tools & Technologies
